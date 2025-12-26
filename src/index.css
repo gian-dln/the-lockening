@@ -9,6 +9,13 @@ body {
     background-color: darkgrey;
 }
 
+.greeting {
+    border: 4px;
+    font-size: 2rem;
+    font-family: 'Arial', sans-serif;
+    color: hsl(0, 0%, 0%);
+}
+
 .timer {
     display: flex;
     flex-direction: column;
